@@ -1,0 +1,29 @@
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\bin\Release\PITEST.exe.config
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\bin\Release\PITEST.exe
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\bin\Release\PITEST.pdb
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\bin\Release\MySql.Data.dll
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\bin\Release\Google.Protobuf.dll
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\bin\Release\MySql.Data.xml
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PI LAHOUSE2.csprojAssemblyReference.cache
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.Cadastrar_Espaço.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.Cadastro_Cliente.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.Cadastro_Funcionario.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.cliente.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.Contrato.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.Criar_Contratos.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.Criar_Planos.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.Funcionario.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.Inicio.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.Login.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.Modficar_Contrato.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.ModificarPlano.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.Modificar_Funcionario.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.Modifica_Cliente.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.Plano.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.Properties.Resources.resources
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PI LAHOUSE2.csproj.GenerateResource.cache
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PI LAHOUSE2.csproj.CoreCompileInputs.cache
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PI LAHOUSE2.csproj.CopyComplete
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.exe
+C:\Users\Guilh_tbpz1ev\source\repos\PITEST\PITEST\obj\Release\PITEST.pdb
